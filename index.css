@@ -175,14 +175,14 @@ body {
     border: 1px solid black;
 }
 .services-main-first {
-    padding-left: 150px;
+    padding-left: 250px;
     padding-top: 100px;
     display: flex;
     width: 1000px;
     justify-content: space-between;
 }
 .services-main-second {
-    padding-left: 150px;
+    padding-left: 250px;
     margin-top: 20px;
     display: flex;
     width: 1000px;
@@ -199,6 +199,7 @@ body {
     text-decoration: none;
     color: silver;
     font-weight: 400;
+    margin-top: 15px;
 }
 
 .services-content {

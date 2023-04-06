@@ -43,11 +43,12 @@ body {
 }
 
 .navigation-home:hover {
-    border-bottom: 4px solid lightblue;
+    text-decoration: underline lightblue 5px;
+    
 }
 
 .navigation-style:hover {
-    border-bottom: 4px solid lightblue;
+    text-decoration: underline lightblue 5px;
 }
 
 .logo {
@@ -175,14 +176,14 @@ body {
     border: 1px solid black;
 }
 .services-main-first {
-    padding-left: 250px;
+    margin: auto;
     padding-top: 100px;
     display: flex;
     width: 1000px;
     justify-content: space-between;
 }
 .services-main-second {
-    padding-left: 250px;
+    margin: auto;
     margin-top: 20px;
     display: flex;
     width: 1000px;

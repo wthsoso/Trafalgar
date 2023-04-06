@@ -14,7 +14,7 @@
     }
 
     .navigation_phone:hover {
-        border-bottom: 4px solid lightblue;
+        text-decoration: underline lightblue 5px;
         width: 100px;
     }
 

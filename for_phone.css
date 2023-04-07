@@ -1,29 +1,30 @@
-@media (max-width:600px) {
+@media (max-width:768px) {
     .logo_phone {
         display: flex;
         justify-content: center;
         flex-direction: column;
-        padding-left: 280px;
+        padding-left: 100px;
     }
-
     .navigation_phone {
         display: flex;
         flex-direction: column;
         justify-content: center;
         margin-top: 10px;
+        padding-left: 90px;
+    
     }
-
-    .navigation_phone:hover {
-        text-decoration: underline lightblue 5px;
-        width: 100px;
+    .logo_img_phone{
+        height: 50px;
+        width: 200px;
     }
+    
 
     .dot_for_phone {
         display: none;
     }
 
     .img_for_phone {
-        width: 380px;
+        width: 300px;
         height: auto;
         display: flex;
         justify-content: center;
